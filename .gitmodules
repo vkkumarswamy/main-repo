@@ -1,0 +1,6 @@
+[submodule "cppcheck"]
+	path = cppcheck
+	url = https://github.com/vkkumarswamy/cppcheck
+[submodule "tictactoe"]
+	path = tictactoe
+	url = https://github.com/vkkumarswamy/tictactoe
